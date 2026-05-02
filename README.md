@@ -64,7 +64,7 @@
   </a>
   <img width="14" />
   <a href="https://www.mozilla.org/firefox" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Firefox_logo,_2019.svg" height="45" alt="firefox logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="45" alt="firefox logo" />
   </a>
 </div>
 
