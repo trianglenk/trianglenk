@@ -67,7 +67,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="45" alt="firefox logo" />
   </a>
 </div>
----
 
 ## 🧩 Tech stack highlights
 - Frontend: HTML, CSS, JavaScript, React, Next.js, TailwindCSS  
