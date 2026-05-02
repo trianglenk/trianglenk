@@ -81,6 +81,7 @@
 - GitHub:https://github.com/TriangleNk
 - X:https://x.com/TriangleNk
 - Discord:https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2Fb974jswF&utf=1
+- Gmail:https://mail.google.com/mail/u/0/?pli=1#inbox
 - (Add your other contacts here if needed)
 ---
 
