@@ -1,73 +1,152 @@
+# Welcome, I'm TriangleNk
+
+Personal GitHub profile page with tech stack preview.
+
+---
+
 <br clear="both">
 
 <h1 align="center">Welcome</h1>
 
-###
+<br clear="both">
+
+<div align="center">
+  <img height="180" src="https://i.imgflip.com/65efzo.gif" />
+</div>
+
+<br clear="both">
+
+<p align="left">My name is TriangleNk</p>
+
+<br clear="both">
+
+<h2 align="center">About me</h2>
+
+<br clear="both">
+
+<p align="left">Linux user + gamer</p>
+
+<br clear="both">
+
+<h2 align="center">I code with</h2>
 
 <br clear="both">
 
 <div align="center">
-  <img height="180" src="https://i.imgflip.com/65efzo.gif"  />
+  <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://react.dev" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://www.npmjs.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo" />
+  </a>
+  <img width="14" />
+
+  <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
+  </a>
 </div>
 
-###
-
-<p align="left">My name is  TriangleNk</p>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="left">Linux user + gamer</p>
-
-###
-
-<h2 align="center">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo"  />
-</div>
-
-###
+<br clear="both">
 
 <h2 align="center">Programs</h2>
 
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+  <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
+  </a>
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
+
+  <a href="https://www.figma.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo" />
+  </a>
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="45" alt="firefox logo"  />
+
+  <a href="https://www.mozilla.org/firefox" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="45" alt="firefox logo" />
+  </a>
 </div>
 
-###
+---
+
+## 📌 How to use this repo
+
+This repository can be used as your **GitHub profile `README.md`**:
+
+1. Create a new repo with your GitHub username:  
+   `ghusername/ghusername` (e.g. `TriangleNk/TriangleNk`).
+2. Create/replace `README.md` with this file.
+3. Push it — it will be shown on your GitHub profile as a banner.
+
+## 🧩 Tech stack highlights
+
+- Frontend: HTML, CSS, JavaScript, React, Next.js, TailwindCSS  
+- Backend & tools: Node.js, TypeScript, Python, PostgreSQL, Git, npm  
+- Dev tools: VS Code, Figma, Firefox, Firebase  
+
+---
+
+🔭 I’m currently working on my own projects and learning new web technologies.
+
+🌱 I’m learning modern web development, game‑related dev, and Linux system administration.
+
+📧 How to reach me:  
+- GitHub: [github.com/TriangleNk](https://github.com/TriangleNk)  
+- (Add your other contacts here if needed)
+
+---
+
+✨ Enjoy coding and gaming! Linux forever!
