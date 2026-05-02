@@ -7,6 +7,7 @@
 <p align="left"><br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 <h2 align="left">I code with</h2>
+
 <div align="left">
   <a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
