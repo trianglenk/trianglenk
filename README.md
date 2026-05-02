@@ -1,6 +1,9 @@
-# Welcome,I'm TriangleNk
+# Welcome, I'm TriangleNk
 
-<h2 align="letf">👾I code with</h2>
+---
+
+<h2 align="left">👾 I code with</h2>
+
 <div align="left">
   <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
@@ -54,8 +57,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
   </a>
 </div>
-<h2 align="left">💻Programs</h2>
-<div>
+
+<h2 align="left">💻 Programs</h2>
+
+<div align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
   </a>
@@ -69,17 +74,22 @@
   </a>
 </div>
 
+---
+
 ## 🧩 Tech stack highlights
 - Frontend: HTML, CSS, JavaScript, React, Next.js, TailwindCSS  
 - Backend & tools: Node.js, TypeScript, Python, PostgreSQL, Git, npm  
 - Dev tools: VS Code, Figma, Firefox, Firebase  
+
 ---
-🔭 I’m currently working on my own projects and learning new web technologies.
+
+🔭 I’m currently working on my own projects and learning new web technologies.  
 🌱 I’m learning modern web development, game‑related dev, and Linux system administration.
 
-## 📧 How to reach me:  
-- 🐦**X-(Twitter):**[x.com/TriangleNk](https://x.com/TriangleNk)
-- 💬**Discord:**[discord.gg/b974jswF](https://discord.gg/b974jswF)
-- 🧩**VK:**[vk.com/trianglenk](https://vk.com/trianglenk)</br>
-You can also contact me on GitHub issues if you want to collaborate or ask somethin
-****
+## 📧 How to reach me
+
+- 🐦 **X (Twitter):** [x.com/TriangleNk](https://x.com/TriangleNk)  
+- 💬 **Discord:** [discord.gg/b974jswF](https://discord.gg/b974jswF)  
+- 🧩 **VK:** [vk.com/trianglenk](https://vk.com/trianglenk)
+
+You can also contact me through GitHub issues if you want to collaborate or ask something.
