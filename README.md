@@ -1,14 +1,10 @@
-<div>
-<h3>Hello</h3>
+Hello
 
-</div>
+About me
 
+Follow Me
 
-<H3>About me</H3>
-
-<h3>Follow Me</h3>
-
-<H3> I code with </H3>
+I code with
 
 <div align="left">
     <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
