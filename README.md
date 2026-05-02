@@ -1,5 +1,4 @@
 # Welcome, I'm TriangleNk
-<br clear="both">
 <h1 align="center">Welcome</h1>
 <br clear="both">
 <div align="center">
