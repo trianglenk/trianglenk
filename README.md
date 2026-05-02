@@ -1,18 +1,12 @@
 # Welcome, I'm TriangleNk
 <h1 align="center">Welcome</h1>
-<br clear="both">
 <div align="center">
   <img height="180" src="https://i.imgflip.com/65efzo.gif" />
 </div>
-<br clear="both">
 <p align="left">My name is TriangleNk</p>
-<br clear="both">
 <h2 align="center">About me</h2>
-<br clear="both">
 <p align="left">Linux user + gamer</p>
-<br clear="both">
 <h2 align="center">I code with</h2>
-<br clear="both">
 <div align="center">
   <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
@@ -66,9 +60,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
   </a>
 </div>
-<br clear="both">
 <h2 align="center">Programs</h2>
-<br clear="both">
 <div align="center">
   <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
@@ -78,7 +70,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo" />
   </a>
   <img width="14" />
-
   <a href="https://www.mozilla.org/firefox" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="45" alt="firefox logo" />
   </a>
@@ -104,7 +95,7 @@
 
 📧 How to reach me:  
 - GitHub: [github.com/TriangleNk](https://github.com/TriangleNk)
-- X:[https://x.com/TriangleNk]
+- X:https://x.com/TriangleNk
 - Discord
 - (Add your other contacts here if needed)
 
