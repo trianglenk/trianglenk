@@ -1,4 +1,4 @@
-<h1 align="center">Hello, TriangleNk 👋</h1>
+<h1 align="center">Hello, TriangleNk </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/twitter/follow/@trianglenk?logo=twitter&style=for-the-badge" alt="@trianglenk" />
   </a>
 </p>
-
 ### 📱 Connect with me:
 <p align="center">
   <a href="https://twitter.com/@trianglenk" target="_blank">
