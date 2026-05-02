@@ -78,12 +78,9 @@
 🔭 I’m currently working on my own projects and learning new web technologies.
 🌱 I’m learning modern web development, game‑related dev, and Linux system administration.
 📧 How to reach me:  
-📧 How to reach me:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22" alt="GitHub logo" /> **GitHub:** [github.com/TriangleNk](https://github.com/TriangleNk)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter-x/twitter-x-original.svg" height="22" alt="X (Twitter) logo" /> **X (Twitter):** [x.com/TriangleNk](https://x.com/TriangleNk)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="22" alt="Discord logo" /> **Discord:** [discord.gg/b974jswF](https://discord.gg/b974jswF)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vk/vk-original.svg" height="22" alt="VK logo" /> **VK:** [vk.com/trianglenk](https://vk.com/trianglenk)
-
+- 🐦 **X-(Twitter):** [x.com/TriangleNk](https://x.com/TriangleNk)
+- 💬 **Discord:** [discord.gg/b974jswF](https://discord.gg/b974jswF)
+- 🧩 **VK**[vk.com/trianglenk](https://vk.com/trianglenk)
 You can also contact me on GitHub issues if you want to collaborate or ask something.
 ---
 
