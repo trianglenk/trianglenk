@@ -79,6 +79,6 @@
 ## 📧 How to reach me:  
 - 🐦**X-(Twitter):**[x.com/TriangleNk](https://x.com/TriangleNk)
 - 💬**Discord:**[discord.gg/b974jswF](https://discord.gg/b974jswF)
-- **VK:**[vk.com/trianglenk](https://vk.com/trianglenk)</br>
+- 🧩**VK:**[vk.com/trianglenk](https://vk.com/trianglenk)</br>
 You can also contact me on GitHub issues if you want to collaborate or ask somethin
 ****
