@@ -75,8 +75,8 @@
 ---
 🔭 I’m currently working on my own projects and learning new web technologies.
 🌱 I’m learning modern web development, game‑related dev, and Linux system administration.
----
-📧 How to reach me:  
+
+## 📧 How to reach me:  
 - 🐦 **X-(Twitter):** [x.com/TriangleNk](https://x.com/TriangleNk)
 - 💬 **Discord:** [discord.gg/b974jswF](https://discord.gg/b974jswF)
 - 🧩 **VK**[vk.com/trianglenk](https://vk.com/trianglenk) </br>
