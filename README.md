@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome, I'm TriangleNk
 <h2 align="center">I code with</h2>
 <div align="center">
