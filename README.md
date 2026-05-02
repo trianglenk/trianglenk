@@ -1,5 +1,4 @@
 # Welcome, I'm TriangleNk
-<p align="left">My name is TriangleNk</p>
 <h2 align="center">About me</h2>
 <p align="left">Linux user + gamer</p>
 <h2 align="center">I code with</h2>
