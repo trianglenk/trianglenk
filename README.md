@@ -1,6 +1,4 @@
 # Welcome, I'm TriangleNk
-<h2 align="center">About me</h2>
-<p align="left">Linux user + gamer</p>
 <h2 align="center">I code with</h2>
 <div align="center">
   <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
