@@ -1,13 +1,20 @@
-<h1 align="left">Hello</h1>
+<div>
+<h3>Hello</h3>
 
-<p align="left">My name is TriagleNk</p>
+</div>
 
-<h2 align="left">About me</h2>
 
-<p align="left"><br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<H3>About me</H3>
 
-<h2 align="left">I code with</h2>
+<h3>Follow Me</h3>
+
+<H3> I code with </H3>
+
 <div align="left">
+    <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+    </a>
+    <img width="12" />
   <a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   </a>
@@ -38,20 +45,12 @@
   </a>
   <img width="12" />
 
-  <a href="https://www.kernel.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  </a>
-  <img width="12" />
 
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   </a>
   <img width="12" />
 
-  <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  </a>
-  <img width="12" />
 
   <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
@@ -66,4 +65,6 @@
   <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   </a>
+
 </div>
+
