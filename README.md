@@ -81,7 +81,7 @@
 - 🔗 **GitHub:** [https://github.com/TriangleNk](https://github.com/TriangleNk)
 - 🐦 **X (Twitter):** [https://x.com/TriangleNk](https://x.com/TriangleNk)
 - 💬 **Discord:** [https://discord.gg/b974jswF](https://discord.gg/b974jswF)
-- 🧩 **VK (Away link):** [https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2Fb974jswF&utf=1](https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2Fb974jswF&utf=1)
+- 🧩 **VK (Away link):** [https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2Fb974jswF&utf=1](https://vk.com/trianglenk)
 
 You can also contact me on GitHub issues if you want to collaborate or ask something.
 ---
