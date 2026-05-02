@@ -1,5 +1,5 @@
-# Welcome, I'm TriangleNk
-<h2 align="center">I code with</h2>
+# Welcome,I'm TriangleNk
+<h2 align="center">👾I code with</h2>
 <div align="center">
   <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
@@ -53,7 +53,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
   </a>
 </div>
-<h2 align="center">Programs</h2>
+<h2 align="center">💻Programs</h2>
 <div align="center">
   <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
