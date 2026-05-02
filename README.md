@@ -1,7 +1,4 @@
 # Welcome, I'm TriangleNk
-<div align="center">
-  <img height="180" src="https://i.imgflip.com/65efzo.gif" />
-</div>
 <p align="left">My name is TriangleNk</p>
 <h2 align="center">About me</h2>
 <p align="left">Linux user + gamer</p>
