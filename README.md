@@ -1,5 +1,4 @@
 # Welcome, I'm TriangleNk
-<h1 align="center">Welcome</h1>
 <div align="center">
   <img height="180" src="https://i.imgflip.com/65efzo.gif" />
 </div>
@@ -74,31 +73,20 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="45" alt="firefox logo" />
   </a>
 </div>
-
 ---
-
 ## 📌 How to use this repo
 
-
-
 ## 🧩 Tech stack highlights
-
 - Frontend: HTML, CSS, JavaScript, React, Next.js, TailwindCSS  
 - Backend & tools: Node.js, TypeScript, Python, PostgreSQL, Git, npm  
 - Dev tools: VS Code, Figma, Firefox, Firebase  
-
 ---
-
 🔭 I’m currently working on my own projects and learning new web technologies.
-
 🌱 I’m learning modern web development, game‑related dev, and Linux system administration.
-
 📧 How to reach me:  
-- GitHub: [github.com/TriangleNk](https://github.com/TriangleNk)
+- GitHub:https://github.com/TriangleNk
 - X:https://x.com/TriangleNk
-- Discord
+- Discord:https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2Fb974jswF&utf=1
 - (Add your other contacts here if needed)
-
 ---
 
-✨ Enjoy coding and gaming! Linux forever!
