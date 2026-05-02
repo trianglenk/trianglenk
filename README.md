@@ -1,6 +1,6 @@
 # Welcome,I'm TriangleNk
 <h2 align="letf">👾I code with</h2>
-<div align="center">
+<div align="left">
   <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
   </a>
@@ -54,7 +54,7 @@
   </a>
 </div>
 <h2 align="left">💻Programs</h2>
-<div align="center">
+<div align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
   </a>
