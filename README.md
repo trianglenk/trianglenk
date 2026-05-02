@@ -78,10 +78,11 @@
 🔭 I’m currently working on my own projects and learning new web technologies.
 🌱 I’m learning modern web development, game‑related dev, and Linux system administration.
 📧 How to reach me:  
-- GitHub:https://github.com/TriangleNk
-- X:https://x.com/TriangleNk
-- Discord:https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2Fb974jswF&utf=1
-- Gmail:https://mail.google.com/mail/u/0/?pli=1#inbox
-- (Add your other contacts here if needed)
+- 🔗 **GitHub:** [https://github.com/TriangleNk](https://github.com/TriangleNk)
+- 🐦 **X (Twitter):** [https://x.com/TriangleNk](https://x.com/TriangleNk)
+- 💬 **Discord:** [https://discord.gg/b974jswF](https://discord.gg/b974jswF)
+- 🧩 **VK (Away link):** [https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2Fb974jswF&utf=1](https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2Fb974jswF&utf=1)
+
+You can also contact me on GitHub issues if you want to collaborate or ask something.
 ---
 
