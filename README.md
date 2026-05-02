@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://twitter.com/@trianglenk" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/@trianglenk?logo=twitter&style=for-the-badge" alt="@trianglenk" />
+    <img src="https://img.shields.io/twitter/follow/@trianglenk?logo=twitter&style=for-the-badge" alt="trianglenk" />
   </a>
 </p>
 ### 📱 Connect with me:
