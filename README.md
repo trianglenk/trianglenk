@@ -9,20 +9,6 @@
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3)
 
 </div>
-
------
-
-## ⚡ whoami
-const trianglenk = {
-  stack:    ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "TailwindCSS"],
-  backend:  ["Node.js", "Python", "PostgreSQL", "Firebase"],
-  tools:    ["VS Code", "Figma", "Git", "npm"],
-  learning: ["modern web dev", "game-related dev", "Linux sysadmin"],
-  now:      "building my own projects 🚀"
-};
-
------
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -47,21 +33,6 @@ const trianglenk = {
 
 </div>
 
------
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trianglenk&theme=neon-dark&hide_border=true&background=0D1117&ring=0CE82B&fire=FF2D78&currStreakLabel=0CE82B&hide_total_contributions=true&hide_longest_streak=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=trianglenk&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=0CE82B&icon_color=FF2D78&text_color=FFFFFF" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglenk&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=0CE82B&text_color=FFFFFF" width="40%" />
-
-</div>
-
------
-
 ## 🌐 Contact
 
 <div align="center">
@@ -71,8 +42,6 @@ const trianglenk = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trianglenk)
 
 </div>
-
------
 
 <div align="center">
 
