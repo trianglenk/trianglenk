@@ -1,53 +1,72 @@
 <div align="center">
 
-<!-- Animated header -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0CE82B&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=hey%2C+i'm+trianglenk+%F0%9F%91%BE;full-stack+dev;always+building+something)](https://github.com/trianglenk)
-
-<!-- Neon divider -->
-
-![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=----------------------------------;)](https://github.com/trianglenk)
 
 </div>
 
-## 🛠️ Tech Stack
+## what do I use
+
+👾 I code with
+
+<a href="https://html.spec.whatwg.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" /></a>
+<img width="14" />
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo" /></a>
+<img width="14" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" /></a>
+<img width="14" />
+<a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" /></a>
+<img width="14" />
+<a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" /></a>
+<img width="14" />
+<a href="https://tailwindcss.com" target="_blank"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="45" alt="tailwindcss logo" /></a>
+<img width="14" />
+<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" /></a>
+<img width="14" />
+<a href="https://nextjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" /></a>
+<img width="14" />
+<a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" /></a>
+<img width="14" />
+<a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" /></a>
+<img width="14" />
+<a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" /></a>
+<img width="14" />
+<a href="https://www.npmjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo" /></a>
+<img width="14" />
+<a href="https://firebase.google.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" /></a>
+
+💻 Programs
+
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" /></a>
+<img width="14" />
+<a href="https://www.figma.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo" /></a>
+<img width="14" />
+<a href="https://www.mozilla.org/firefox" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="45" alt="firefox logo" /></a>
+
+## 🧩 Tech stack highlights
+
+- Frontend: HTML, CSS, JavaScript, React, Next.js, TailwindCSS
+- Backend & tools: Node.js, TypeScript, Python, PostgreSQL, Git, npm
+- Dev tools: VS Code, Figma, Firefox, Firebase
+
+🔭 I’m currently working on my own projects and learning new web technologies.  
+🌱 I’m learning modern web development, game‑related dev, and Linux system administration.
+
+## 📊 Stats
 
 <div align="center">
 
-<!-- Languages & Frameworks -->
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trianglenk&theme=dark&hide_border=true&background=0D1117&hide_total_contributions=true&hide_longest_streak=true" width="40%" />
 
 </div>
+## 📧 How to reach me
 
-## 🌐 Contact
+- 🐦 X (Twitter): [x.com/TriangleNk](https://x.com/TriangleNk)
+- 💬 Discord: [discord.gg/b974jswF](https://discord.gg/b974jswF)
 
-<div align="center">
-
-[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TriangleNk)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/b974jswF)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trianglenk)
-
-</div>
+You can also contact me through GitHub issues if you want to collaborate or ask something.
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=500&color=FF2D78&center=true&vCenter=true&width=500&lines=---------------------)](https://github.com/trianglenk)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=----------------------------------;)](https://github.com/trianglenk)
 
 </div>
