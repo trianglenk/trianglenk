@@ -26,7 +26,7 @@
   </a>
   <img width="14" />
   <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo" />
+    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="45" alt="tailwindcss logo" />
   </a>
   <img width="14" />
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
