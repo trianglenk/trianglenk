@@ -74,8 +74,6 @@
   </a>
 </div>
 
----
-
 ## 🧩 Tech stack highlights
 - Frontend: HTML, CSS, JavaScript, React, Next.js, TailwindCSS  
 - Backend & tools: Node.js, TypeScript, Python, PostgreSQL, Git, npm  
