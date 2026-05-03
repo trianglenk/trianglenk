@@ -48,6 +48,6 @@
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=500&color=FF2D78&center=true&vCenter=true&width=500&lines=thanks+for+visiting+%F0%9F%96%A4;feel+free+to+reach+out!)](https://github.com/trianglenk)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=500&color=FF2D78&center=true&vCenter=true&width=500&lines=---------------------)](https://github.com/trianglenk)
 
 </div>
