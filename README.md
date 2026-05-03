@@ -1,7 +1,8 @@
 <div align="center">
 
-<h1 align = "center">
-<a href="https:"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=---------welcome+to+my+GitHub+Profile+TriangleNk---------;" alt="Typing SVG" /></a>
+<h1 align="center">
+<a href="https://github.com/trianglenk"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=---------welcome+to+my+GitHub+Profile+TriangleNk---------;" alt="Typing SVG" /></a>
+</h1>
 
 </div>
 
@@ -49,7 +50,7 @@
 - Backend & tools: Node.js, TypeScript, Python, PostgreSQL, Git, npm
 - Dev tools: VS Code, Figma, Firefox, Firebase
 
-🔭 I’m currently working on my own projects and learning new web technologies.
+🔭 I’m currently working on my own projects and learning new web technologies.  
 🌱 I’m learning modern web development, game‑related dev, and Linux system administration.
 
 ## 📊 Stats
@@ -57,8 +58,7 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=trianglenk&theme=dark&hide_border=true&background=0D1117" width="49%" />
-<img src="https://github-readme-stats.vercel.
-app/api?username=trianglenk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=trianglenk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" width="49%" />
 
 </div>
 
