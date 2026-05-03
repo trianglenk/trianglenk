@@ -88,3 +88,4 @@
 - 💬**Discord:**[discord.gg/b974jswF](https://discord.gg/b974jswF)  
 
 You can also contact me through GitHub issues if you want to collaborate or ask something.
+<a href="https:"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=--------------------------------!;" alt="Typing SVG" /></a>
