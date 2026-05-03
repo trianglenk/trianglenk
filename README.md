@@ -3,7 +3,7 @@
 <br>
 
 <h2 align="left">what do I use</h2> 
--👾 I code with
+#👾 I code with
 <div align="left">
   <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
@@ -57,7 +57,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
   </a>
 </div>
--💻 Programs
+# 💻 Programs
 <div align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
