@@ -58,7 +58,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=trianglenk&theme=dark&hide_border=true&background=0D1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=trianglenk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" width="49%" />
 
 </div>
 
