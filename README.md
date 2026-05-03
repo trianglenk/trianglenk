@@ -1,7 +1,5 @@
 # Welcome, I'm TriangleNk
 
----
-
 <h2 align="left">👾 I code with</h2>
 
 <div align="left">
@@ -78,8 +76,6 @@
 - Frontend: HTML, CSS, JavaScript, React, Next.js, TailwindCSS  
 - Backend & tools: Node.js, TypeScript, Python, PostgreSQL, Git, npm  
 - Dev tools: VS Code, Figma, Firefox, Firebase  
-
----
 
 🔭 I’m currently working on my own projects and learning new web technologies.  
 🌱 I’m learning modern web development, game‑related dev, and Linux system administration.
