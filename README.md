@@ -1,4 +1,11 @@
 <div align="center">
+
+<h1 align = "center">
+<a href="https:"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=---------welcome+to+my+GitHub+Profile+TriangleNk---------;" alt="Typing SVG" /></a>
+
+</div>
+
+<div align="center">
 </div>
 what do I use
 I code with
