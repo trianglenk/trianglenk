@@ -2,8 +2,8 @@
 <a href="https:"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=---------welcome+to+my+GitHub+TriangleNk--------!;" alt="Typing SVG" /></a>
 <br>
 
-<h2 align="left">👾 I code with</h2>
-
+<h2 align="left">what do I use</h2> 
+-👾 I code with
 <div align="left">
   <a href="https://html.spec.whatwg.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
@@ -57,9 +57,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
   </a>
 </div>
-
-<h2 align="left">💻 Programs</h2>
-
+-💻 Programs
 <div align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
