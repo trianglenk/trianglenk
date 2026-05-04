@@ -90,7 +90,7 @@ You can also contact me through GitHub issues if you want to collaborate or ask 
 
   <p align="center">
     <a href="https://github.com/trianglenk/mini-slicker/stargazers">
-      <img src="https://img.shields.io/github/stars/trianglenk/mini-slicker?style=flat&logo=github" alt="stars"/>
+      <img src="https://github.com/trianglenk/mini-slicker/blob/main/icons/%20%20%20%20mini-slicker/%20%20%20%20mini-slicker/mini-slicker.png" alt="stars"/>
     </a>
     <a href="https://github.com/trianglenk/mini-slicker/archive/refs/heads/main.zip">
       <img src="https://img.shields.io/badge/-Download-orange?style=flat&logo=github" alt="download"/>
