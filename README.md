@@ -75,12 +75,11 @@ You can also contact me through GitHub issues if you want to collaborate or ask 
 </div>
 
 ## 🕹 Featured Project
-
 <div align="center">
 
 |  |
 | --- |
-| ![mini-slicker](https://github.com/trianglenk/mini-slicker/blob/main/icons/%20%20%20%20mini-slicker/%20%20%20%20mini-slicker/mini-slicker.png) |
+| <img src="https://github.com/trianglenk/mini-slicker/raw/main/icons/mini-slicker/mini-slicker.png" width="160" alt="mini-slicker logo" /> |
 | **💰 mini-slicker** |
 | *Minimal Python clicker with clean Dark UI.* |
 | *Click, upgrade, and grow.* |
