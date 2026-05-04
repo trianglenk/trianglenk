@@ -73,15 +73,30 @@ You can also contact me through GitHub issues if you want to collaborate or ask 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=----------------------------------;)](https://github.com/trianglenk)
 
 </div>
+
 ## 🕹 Featured Project
 
 <div align="center">
   <a href="https://github.com/trianglenk/mini-slicker">
-    <img src="https://github.com/trianglenk/mini-slicker/blob/main/icons/%20%20%20%20mini-slicker/%20%20%20%20mini-slicker/mini-slicker.png" width="100" alt="mini-slicker logo" />
+    <!-- Увеличили логотип и убрали лишние пробелы в ссылке -->
+    <img src="https://githubusercontent.com" width="250" alt="mini-slicker logo" />
   </a>
-  <br />
-  <p><i>A stylish and lightweight clicker game built with Python. If you enjoy it, don't forget to give it a ⭐ star!</i></p>
+  
+  <h3 align="center">💰 mini-slicker</h3>
+  
+  <p align="center">
+    <b>A stylish and lightweight Python clicker with modern Dark UI.</b> <br />
+    <i>Join the progression, buy upgrades, and reach the top!</i>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com"><img src="https://shields.io" alt="stars" /></a>
+    <a href="https://github.com"><img src="https://shields.io" alt="download" /></a>
+  </p>
+  
+  <p><i>If you enjoy the game, don't forget to give it a ⭐ star!</i></p>
 </div>
+
 
 
 <div align="center">
