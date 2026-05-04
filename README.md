@@ -73,25 +73,3 @@ You can also contact me through GitHub issues if you want to collaborate or ask 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=----------------------------------;)](https://github.com/trianglenk)
 
 </div>
-
-## 🕹 Featured Project
-<div align="center">
-
-|  |
-|---|
-|<img src="https://github.com/trianglenk/mini-slicker/blob/main/icons/%20%20%20%20mini-slicker/%20%20%20%20mini-slicker/mini-slicker.png" width="150" alt="mini-slicker logo" />|
-|
-| *Minimal Python clicker with clean Dark UI.* |
-| *Click, upgrade, and grow.* |
-| [![Download](https://img.shields.io/badge/-Download-orange?style=flat&logo=github)](https://github.com/trianglenk/mini-slicker/archive/refs/heads/main.zip) |
-| |
-
-</div>
-
-
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=----------------------------------;)](https://github.com/trianglenk)
-
-</div>
