@@ -79,7 +79,7 @@ You can also contact me through GitHub issues if you want to collaborate or ask 
 <div align="center">
   <a href="https://github.com/trianglenk/mini-slicker">
     <!-- Увеличили логотип и убрали лишние пробелы в ссылке -->
-    <img src="https://githubusercontent.com" width="250" alt="mini-slicker logo" />
+    <img src="https://github.com/trianglenk/mini-slicker/blob/main/icons/%20%20%20%20mini-slicker/%20%20%20%20mini-slicker/mini-slicker.png" width="250" alt="mini-slicker logo" />
   </a>
   
   <h3 align="center">💰 mini-slicker</h3>
