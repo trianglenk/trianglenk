@@ -77,11 +77,12 @@ You can also contact me through GitHub issues if you want to collaborate or ask 
 
 <div align="center">
   <a href="https://github.com/trianglenk/mini-slicker">
-    <img src="https://githubusercontent.com" width="600" alt="mini-slicker logo" />
+    <img src="https://github.com/trianglenk/mini-slicker/blob/main/icons/%20%20%20%20mini-slicker/%20%20%20%20mini-slicker/mini-slicker.png" width="600" alt="mini-slicker logo" />
   </a>
   <br />
-  <p><i>If you enjoy the game, don't forget to give it a ⭐ star!</i></p>
+  <p><i>A stylish and lightweight clicker game built with Python. If you enjoy it, don't forget to give it a ⭐ star!</i></p>
 </div>
+
 
 <div align="center">
 
