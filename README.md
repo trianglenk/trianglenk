@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trianglenk&theme=dark&hide_border=true&background=0D1117" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trianglenk&theme=dark&hide_border=true&background=0D1117" width="52%" />
 
 </div>
 
