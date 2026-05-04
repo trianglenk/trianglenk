@@ -79,4 +79,12 @@ You can also contact me through GitHub issues if you want to collaborate or ask 
   <a href="https://github.com">
     <img src="https://vercel.app" alt="mini-slicker repository" />
   </a>
+  <br />
+  <p><i>If you enjoy the game, don't forget to give it a ⭐ star!</i></p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=125&lines=----------------------------------;)](https://github.com/trianglenk)
+
 </div>
