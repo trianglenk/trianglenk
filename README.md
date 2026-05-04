@@ -77,27 +77,18 @@ You can also contact me through GitHub issues if you want to collaborate or ask 
 ## 🕹 Featured Project
 
 <div align="center">
-  <a href="https://github.com/trianglenk/mini-slicker">
-    <img src="https://github.com/trianglenk/mini-slicker/blob/main/icons/%20%20%20%20mini-slicker/%20%20%20%20mini-slicker/mini-slicker.png" width="160" alt="mini-slicker logo" />
-  </a>
-  
-  <h3 align="center">💰 mini-slicker</h3>
-  
-  <p align="center">
-    <b>A stylish and lightweight Python clicker with modern Dark UI.</b> <br />
-    <i>Join the progression, buy upgrades, and reach the top!</i>
-  </p>
 
-  <p align="center">
-    </a>
-    <a href="https://github.com/trianglenk/mini-slicker/archive/refs/heads/main.zip">
-      <img src="https://img.shields.io/badge/-Download-orange?style=flat&logo=github" alt="download"/>
-    </a>
-  </p>
-  
-  <p align="center">
-    <i>If you enjoy the game, don't forget to give it a ⭐ star!</i>
-  </p>
+|  |
+| --- |
+| ![mini-slicker](https://github.com/trianglenk/mini-slicker/raw/main/icons/mini-slicker/mini-slicker.png) |
+| **💰 mini-slicker** |
+| *Minimal Python clicker with clean Dark UI.* |
+| *Click, upgrade, and grow.* |
+| |
+| [![Download](https://img.shields.io/badge/-Download-orange?style=flat&logo=github)](https://github.com/trianglenk/mini-slicker/archive/refs/heads/main.zip) |
+| |
+| *If you enjoy the game, don't forget to give it a ⭐ star!* |
+
 </div>
 
 
