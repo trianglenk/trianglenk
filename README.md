@@ -76,12 +76,13 @@ You can also contact me through GitHub issues if you want to collaborate or ask 
 ## 🕹 Featured Project
 
 <div align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/trianglenk/mini-slicker">
     <img src="https://vercel.app" alt="mini-slicker repository" />
   </a>
   <br />
   <p><i>If you enjoy the game, don't forget to give it a ⭐ star!</i></p>
 </div>
+
 
 <div align="center">
 
