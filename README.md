@@ -52,14 +52,6 @@
 🔭 I’m currently working on my own projects and learning new web technologies.
 🌱 I’m learning modern web development, game‑related dev, and Linux system administration.
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trianglenk&theme=dark&hide_border=true&background=0D1117" width="52%" />
-
-</div>
-
 ## 📧 How to reach me
 
 - 🐦 X (Twitter): [x.com/TriangleNk](https://x.com/TriangleNk)
